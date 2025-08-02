@@ -11,7 +11,7 @@ app = Flask(__name__)
 CORS(app)
 
 # You'll need to get your SerpAPI key from https://serpapi.com/
-SERPAPI_KEY = "1ad0a59e6f383aa7020e4c1a60e52d18e40385f657fe0d74401acb59e2d5a34e"  # Replace with your actual API key
+SERPAPI_KEY = "BOOM"  # Replace with your actual API key
 
 @app.route('/')
 def index():
