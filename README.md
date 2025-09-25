@@ -20,7 +20,7 @@ Welcome to the Google Trends Explorer, a web application that visualizes Google 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/google-trends-explorer.git
+    git clone https://github.com/UjreShreyas/Trends-Analysis.git
     cd google-trends-explorer
     ```
 
